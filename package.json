@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "nuxt": "latest",
+    "unenv": "^1.10.0",
     "vue": "latest",
     "vue-router": "latest"
   },
